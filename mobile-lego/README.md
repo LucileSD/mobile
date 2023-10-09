@@ -15,6 +15,8 @@ Scan the QR code with Expo application
 
 # View
 
-![homepage](images/hopa.png)
-![select](images/select.png)
-![castle](images/castle.png)
+<p align="center">
+  <img src="./images/hopa.png" alt="homepage" width="25%"/>
+  <img src="./images/select.png" alt="select" width="25%"/>
+  <img src="./images/castle.png" alt="castle" width="25%"/>
+</p>
